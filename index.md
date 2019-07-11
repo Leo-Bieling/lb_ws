@@ -10,14 +10,14 @@ This page is still in progress, soon there will be more to see.
 
 * Email: [mail@leo-bieling.com](mailto:mail@leo-bieling.com)
 * Website: [www.leo-bieling.com](https://leo-bieling.com)
-* LinkedIn: [www.linkedin.com/in/leo-bieling] (https://www.linkedin.com/in/leo-bieling/)
-* Instagram: [www.instagram.com/leo_bieling] (https://www.instagram.com/leo_bieling/)
+* LinkedIn: [www.linkedin.com/in/leo-bieling](https://www.linkedin.com/in/leo-bieling/)
+* Instagram: [www.instagram.com/leo_bieling](https://www.instagram.com/leo_bieling/)
 * Github: [www.github.com/LeoBieling](https://github.com/LeoBieling/)
 
 ## Institutions
 
-+ M.Arch., Architectural Association Design Research Lab, United Kingdom (DAAD Scholar)
-+ Politecnico di Milano, Italy (Eramus Scholar)
++ M.Arch., Architectural Association Design Research Lab, United Kingdom (DAAD Scholar).
++ Politecnico di Milano, Italy (Eramus Scholar).
 + M.Sc., Vienna University of Technology, Austria.
 + B.Sc., Vienna University of Technology, Austria.
 
