@@ -10,8 +10,9 @@ This page is still in progress, soon there will be more to see.
 
 * Email: [mail@leo-bieling.com](mailto:mail@leo-bieling.com)
 * Website: [www.leo-bieling.com](https://leo-bieling.com)
-* LinkedIn: [www.linkedin.com/in/leo-bieling](https://www.linkedin.com/in/leo-bieling/)
 * Instagram: [www.instagram.com/leo_bieling](https://www.instagram.com/leo_bieling/)
+* YouTube: [YouTube](https://www.youtube.com/channel/UCxD8UzomPJHqZDVxF-7_urw/featured?view_as=subscriber)
+* LinkedIn: [www.linkedin.com/in/leo-bieling](https://www.linkedin.com/in/leo-bieling/)
 * Github: [www.github.com/LeoBieling](https://github.com/LeoBieling/)
 
 ## Institutions
