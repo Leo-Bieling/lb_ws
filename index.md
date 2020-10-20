@@ -11,42 +11,52 @@ Dipl.-Ing. **Leo Bieling**, MArch (AA) Architect ARB RIBA
 Leo is co-author of the research paper **“Spatial Developable Meshes”**, which was published in the proceedings of the Design Modelling Symposium 2019 in Berlin. He has taught several international workshops including **CAARDIA** at the Tsinghua University Beijing, **RobArch** hosted at ETH Zurich, at the **Architectural Association DRL** and at the **B-Pro Bartlett** in London. In these courses, he continued his design-research in architectural geometry towards robotic and digital fabrication implementations. Previously he was a researcher in residence at the **AutoDesk BUILDspace in Boston** and a Student Assistant at the **Architectural Association’s Digital Prototyping Lab (DPL)**. During this time, he developed a strong understanding of the current state of the art digital fabrication methods. Leo’s previous work experience includes **Coop Himmelb(l)au** in Vienna, **Plus Architecture** in Melbourne and **Bieling Architekten** in Hamburg. He received his Bachelor of Science and Master of Science Degrees with distinction from the **TU Vienna**, Austria. He completed his postgraduate studies at the **Architectural Association Design Research Lab** (AA DRL) receiving a Master of Architecture and Urbanism. Leo has been a **scholar of the Erasmus Program** and the **German Academic Exchange Service (DAAD)**.
 
 # Academic Experience
-## Bartlett B-Pro Workshops
-10/2019 Workshop Tutor
+## Architecutral Association DRL Workshop
+10/2020 Tutor
+**Materializing Machines**
+Architectural Association, London / United Kingdom
 
+## PAACADEMY (Parametric Architecture) Workshop
+10/2020 Tutor
+**Design for Robotic Fabrication**
+Istanbul, Turkey
+
+## Bartlett B-Pro Workshop
+10/2020 Tutor
+**Polytopal Tectonics** - Modular Architectural Geometry
+Bartlett School of Architecture, London / United Kingdom
+
+## Digital Futures 2020 Workhop
+06/2020 Tutor
+**Architectural Geometry and Habitat**
+Tongji University, Shanghai / China
+
+## Bartlett B-Pro Workshop
+10/2019 Tutor
 **FRep Tectonics** - Shape Generation for 3D Printed Spatial Nodes.
-
 Bartlett School of Architecture, London / United Kingdom
 
 ## Acadia 2019
 10/2019 Maya Plugin Development
-
 **Mesh2Pix** - Architectural Geometry and Machine Learning mashup
-
 The University of Texas, Austin / USA
 
 ## BPro Architectural Computation
 09/2019 External Thesis Advisor
-
 Bartlett School of Architecture, London / United Kingdom
 
 ## Rob|Arch 2018
-09/2018 Workshop Tutor
-
+09/2018 Tutor
 **Tight Squeeze:** Automated Assembly of Spatial Structures in Constrained Sites
-
 ETH Zurich / Switzerland
 
 ## CAADRIA 2018
-10/2018 Workshop Tutor
-
+10/2018 Tutor
 **Coupled Systems** - Developable Funicular Skeletons with Tensioning Membranes
-
 Tsinghua University, Beijing / China
 
 ## AutoDesk BUILDspace
 07/2017 Researcher in Residence
-
 Boston / USA
 
 # Contact
